@@ -16,8 +16,9 @@ Before starting, ensure you have the following:
 - Follow the official installation guide: [WSL Installation](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 ## **Lessons**  
-1. **[Lesson 1: Getting Started](lessons/lesson-1.md)** – Create an account, set up a repository, and add files.  
-2. **More lessons coming soon...**  
+1. **[Lesson 1: Getting Started with GitHub](lessons/lesson-1.md)** – Create an account, set up a repository, and add files using GitHub's web interface.  
+2. **[Lesson 2: Initializing a Local Git Repository](lessons/lesson-2.md)** – Create a local Git repository, track files, and push changes to GitHub.  
+3. **More lessons coming soon...**  
 
 ## **Who is This For?**  
 - **Beginners & Students** learning version control  
