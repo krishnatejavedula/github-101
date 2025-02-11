@@ -20,6 +20,9 @@ Before starting, ensure you have the following:
 2. **[Lesson 2: Initializing a Local Git Repository](lessons/lesson-2.md)** - Create a local Git repository, track files, and push changes to GitHub.  
 3. **More lessons coming soon...**  
 
+## **Resources** 
+- **[Git Cheatsheet](resources/git-cheatsheet.md)** – A quick reference guide to essential Git commands. 
+
 ## **Who is This For?**  
 - **Beginners & Students** learning version control  
 - **Developers** new to GitHub  
