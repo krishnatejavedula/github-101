@@ -65,7 +65,6 @@ A quick reference guide to the most commonly used Git commands.
 | `git show <commit-hash>` | Display detailed information about a commit. |
 
 ---
-
-## **Next Steps**  
+ 
 For more advanced Git usage, refer to the official documentation: [Git Documentation](https://git-scm.com/doc).
 
