@@ -24,6 +24,7 @@ Before starting, ensure you have the following:
 ## **Resources** 
 - **[Git Cheatsheet](resources/git-cheatsheet.md)** – A quick reference guide to essential Git commands. 
 - **[Basic Linux Cheatsheet](resources/basic-linux-cheatsheet.md)** - A quick reference guide to essential Linux file management, text editing, and package management commands.
+- **[Conda Guide](resources/conda-guide.md)** - Installing miniforge and managing conda environments.
 
 ## **Who is This For?**  
 - **Beginners & Students** learning version control  
