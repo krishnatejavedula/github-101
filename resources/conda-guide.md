@@ -88,3 +88,7 @@ conda remove -n myenv --all
 ```
 This ensures the specified environment (`myenv`) is deleted from your system.
 
+## Additional Resources
+
+For more information on Conda, you can visit the official [Conda documentation](https://docs.conda.io/) or check out the [Conda-Forge repository](https://conda-forge.org/).
+
