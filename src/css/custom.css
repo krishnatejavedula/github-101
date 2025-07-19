@@ -1,0 +1,70 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here.
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+*/
+
+/* For readability concerns, you should choose a lighter palette in dark mode.
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+*/
+
+
+/**
+ * CSS for Dracula Light and Dark Themes
+ * Dracula reference: https://draculatheme.com/contribute
+ */
+
+/* Dracula Light (Custom/Community adaptation) */
+:root {
+  --ifm-color-primary: #6272a4;        /* soft purple */
+  --ifm-color-primary-dark: #5861a3;
+  --ifm-color-primary-darker: #4a5196;
+  --ifm-color-primary-darkest: #39395a;
+  --ifm-color-primary-light: #7886b9;
+  --ifm-color-primary-lighter: #8d99c6;
+  --ifm-color-primary-lightest: #e6e6fa;  /* lavender/very light background */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: #f8f8f2;  /* Dracula's lightest */
+  /* General background and text colors for light mode (optional): */
+  --ifm-background-color: #f8f8fa;
+  --ifm-font-color-base: #282a36;
+}
+
+/* Dracula Dark */
+[data-theme='dark'] {
+  --ifm-color-primary: #bd93f9;        /* Dracula purple */
+  --ifm-color-primary-dark: #9580ff;   /* Camouflage */
+  --ifm-color-primary-darker: #6272a4; /* Dracula selection blue */
+  --ifm-color-primary-darkest: #44475a;/* Dracula background dark */
+  --ifm-color-primary-light: #d6aaff;
+  --ifm-color-primary-lighter: #f1fa8c;/* Dracula yellow, for accent */
+  --ifm-color-primary-lightest: #ff79c6;/* Dracula pink, for highlight */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: #44475a; /* Dracula darkest background */
+  /* General Dracula background/text colors: */
+  --ifm-background-color: #282a36;
+  --ifm-font-color-base: #f8f8f2;
+}
