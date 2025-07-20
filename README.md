@@ -1,5 +1,5 @@
 ### **GitHub 101 🚀**  
-A step-by-step guide for beginners to learn GitHub.  
+A step-by-step guide for beginners to learn GitHub. Visit the [website](https://krishnatejavedula.github.io/github-101/) for detailed lessons and resources!
 
 ## **About**  
 This repository provides a structured series of lessons to help **beginners** understand and use GitHub effectively.  
