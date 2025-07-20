@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About","permalink":"/github-101/blog/welcome","unlisted":false,"date":"2025-07-19T23:55:05.000Z"}]}')}}]);
